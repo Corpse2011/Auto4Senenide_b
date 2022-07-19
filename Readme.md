@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/p18clicnelja7a9k?svg=true)](https://ci.appveyor.com/project/Corpse2011/auto4senenide-b)
 
 # Домашнее задание к занятию «2.2. Selenide»
 
